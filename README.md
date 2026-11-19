@@ -1,4 +1,4 @@
-# 🚀 Nexus AI – Intelligent AI Chat Assistant
+#  Nexus AI – Intelligent AI Chat Assistant
 
 An intelligent, full-stack AI Chat Assistant built using **React, TypeScript, FastAPI, MongoDB, and OpenAI API**.
 
@@ -8,7 +8,7 @@ Nexus AI provides an interactive conversational experience with real-time AI res
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. AI-Powered Chat
 - Integrated with OpenAI API for intelligent response generation.
@@ -54,7 +54,7 @@ The selected tone is converted into a system instruction on the backend before s
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -86,7 +86,7 @@ The selected tone is converted into a system instruction on the backend before s
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                   USER
@@ -134,7 +134,7 @@ The selected tone is converted into a system instruction on the backend before s
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Nexus-AI-Chat-Assistant/
@@ -187,7 +187,7 @@ Nexus-AI-Chat-Assistant/
 
 ---
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 Follow these instructions to run Nexus AI locally.
 
