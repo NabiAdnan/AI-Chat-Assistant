@@ -1,0 +1,8 @@
+powershell.exe
+node_modules/
+.env
+.env.local
+backend/.env
+backend/.venv
+__pycache__/
+*.pyc
